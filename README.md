@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Eugene 👋
 
-<!--
-**bashkatoveugene/bashkatoveugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer in progress 🚀
 
-Here are some ideas to get you started:
+## 💻 About me
+- Learning JavaScript and Frontend development
+- Building projects with Vanilla JS
+- Interested in UI/UX and web applications
+- Future Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📂 Projects
+### 📝 Notes App
+Simple notes application with animations and autosave.
+
+🔗 Live Demo:
+https://bashkatoveugene.github.io/notes-app/
+
+## 📈 Currently learning
+- Advanced JavaScript
+- DOM architecture
+- Clean code principles
