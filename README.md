@@ -12,7 +12,9 @@ Frontend developer in progress 🚀
 - HTML
 - CSS
 - JavaScript
+- Node.js
 - Git & GitHub
+
 
 ## 📂 Projects
 ### 📝 Notes App
